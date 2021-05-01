@@ -30,6 +30,6 @@ func main() {
 	routes.ReservasRoutes(router)
 	routes.CuentasRoutes(router)
 
-	router.Run(":8000")
+	router.Run(":" + os.Getenv("PORT"))
 
 }
