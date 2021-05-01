@@ -1,1 +1,1 @@
-web: golang-telecomunicaciones
+web: go-practica

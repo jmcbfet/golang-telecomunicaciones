@@ -15,10 +15,12 @@ require (
 	github.com/imdario/mergo v0.3.11
 	github.com/jmoiron/sqlx v1.3.1
 	github.com/json-iterator/go v1.1.10
+	github.com/kr/fs v0.1.0 // indirect
 	github.com/leodido/go-urn v1.2.1
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
 	github.com/modern-go/reflect2 v1.0.1
 	github.com/pelletier/go-toml v1.8.1
+	github.com/tools/godep v0.0.0-20180126220526-ce0bfadeb516 // indirect
 	github.com/ugorji/go v1.2.4
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/sys v0.0.0-20210217105451-b926d437f341
